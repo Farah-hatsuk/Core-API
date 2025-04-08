@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "31dwMGD8D9gHRDwMpPOid5fSqPOsV8tDcuX2pp5n6Kk=",
+  "Source": "coreAPI.Server",
+  "BasePath": "_content/coreAPI.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\COREApi\\coreAPI\\coreapi.client\\coreapi.client.esproj",
+      "Version": 2,
+      "Source": "coreapi.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
