@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|c:\\users\\orange\\desktop\\coreapi\\task2\\coreapi.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|solutionrelative:coreapi.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|c:\\users\\orange\\desktop\\coreapi\\task2\\coreapi.server\\idataservice\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|solutionrelative:coreapi.server\\idataservice\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|c:\\users\\orange\\desktop\\coreapi\\task2\\coreapi.server\\dataservice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|solutionrelative:coreapi.server\\dataservice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|c:\\users\\orange\\desktop\\coreapi\\task2\\coreapi.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|solutionrelative:coreapi.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|c:\\users\\orange\\desktop\\coreapi\\task2\\coreapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|solutionrelative:coreapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43ECAF1-E757-4623-9B54-878422D92B5C}|coreapi.client\\coreapi.client.esproj|c:\\users\\orange\\desktop\\coreapi\\task2\\coreapi.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C43ECAF1-E757-4623-9B54-878422D92B5C}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|c:\\users\\orange\\desktop\\coreapi\\task2\\coreapi.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B4D7F-0B4E-4343-8A4B-E25693AB12BE}|coreAPI.Server\\coreAPI.Server.csproj|solutionrelative:coreapi.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43ECAF1-E757-4623-9B54-878422D92B5C}|coreapi.client\\coreapi.client.esproj|c:\\users\\orange\\desktop\\coreapi\\task2\\coreapi.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C43ECAF1-E757-4623-9B54-878422D92B5C}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43ECAF1-E757-4623-9B54-878422D92B5C}|coreapi.client\\coreapi.client.esproj|c:\\users\\orange\\desktop\\coreapi\\task2\\coreapi.client\\src\\app\\service\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C43ECAF1-E757-4623-9B54-878422D92B5C}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\service\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "coreAPI.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "coreAPI.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:05:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "coreAPI.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\Models\\Category.cs",
+              "RelativeToolTip": "coreAPI.Server\\Models\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:41:33.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreapi.client\\src\\app\\category\\category.component.html",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreapi.client\\src\\app\\category\\category.component.html",
+              "RelativeToolTip": "coreapi.client\\src\\app\\category\\category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-12T19:36:30.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\Program.cs",
+              "RelativeDocumentMoniker": "coreAPI.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\Program.cs",
+              "RelativeToolTip": "coreAPI.Server\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:05:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "coreAPI.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "coreAPI.Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:58:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\DataService\\DataService.cs",
+              "RelativeDocumentMoniker": "coreAPI.Server\\DataService\\DataService.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\DataService\\DataService.cs",
+              "RelativeToolTip": "coreAPI.Server\\DataService\\DataService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwFcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:57:20.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\IDataService\\IDataService.cs",
+              "RelativeDocumentMoniker": "coreAPI.Server\\IDataService\\IDataService.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreAPI.Server\\IDataService\\IDataService.cs",
+              "RelativeToolTip": "coreAPI.Server\\IDataService\\IDataService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:57:46.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreapi.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreapi.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "coreapi.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-12T19:33:22.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "url.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreapi.client\\src\\app\\service\\url.service.ts",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\service\\url.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\COREApi\\task2\\coreapi.client\\src\\app\\service\\url.service.ts",
+              "RelativeToolTip": "coreapi.client\\src\\app\\service\\url.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-12T19:10:45.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
