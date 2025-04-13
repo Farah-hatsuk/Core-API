@@ -1,0 +1,3 @@
+C:\Users\Orange\Desktop\COREApi\coreAPI\coreapi.client\obj\Debug\coreapi.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\COREApi\task2\coreapi.client\obj\Debug\coreapi.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Core-API\task 3\coreapi.client\obj\Debug\coreapi.client.esproj.CoreCompileInputs.cache
