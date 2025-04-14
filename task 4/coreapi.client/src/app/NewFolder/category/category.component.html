@@ -1,0 +1,21 @@
+
+<div class="card-footer small text-muted"><a routerLink="/addCategory" class="btn btn-success" style="font-size:16px;">Add Category</a></div>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of category">
+      <th scope="row">{{item.id}}</th>
+      <td>{{item.name}}</td>
+      <td>{{item.description}}</td>
+      <td><a routerLink="/editCategory/{{item.id}}" class="btn btn-primary">Edit Category</a> </td>
+      <td><button class="btn btn-danger btn-sm" (click)="DeleteCategoryy(item.id)">Delete Category</button></td>
+    </tr>
+  </tbody>
+</table>

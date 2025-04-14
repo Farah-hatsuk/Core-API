@@ -1,0 +1,16 @@
+
+<form #edit="ngForm" (ngSubmit)="editCategory(edit.value)">
+
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Name Of Category</label>
+    <input type="text" class="form-control"  ngModle name="Name">
+  </div>
+
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Description Of Category</label>
+    <input type="text" class="form-control"  ngModle name="Description">
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

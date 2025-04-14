@@ -1,0 +1,15 @@
+
+<form #add="ngForm" (ngSubmit)="addCategory(add.value)">
+
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Name Of Category</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" ngModle name="Name">
+  </div>
+
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Description Of Category</label>
+    <input type="text" class="form-control" id="exampleInputPassword1" ngModle name="Description">
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
